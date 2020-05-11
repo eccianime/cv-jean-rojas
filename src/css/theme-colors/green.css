@@ -1,0 +1,141 @@
+a:hover {
+	color: rgb(0,117,246);
+}
+
+.header .logo {
+	background: rgb(0,117,246);
+}
+
+.header .top-menu ul li.active a {
+	color: rgb(0,117,246);
+}
+
+.header .top-menu ul li.active a .icon {
+	color: rgb(0,117,246);
+}
+
+.header .social a:hover .icon {
+	color: rgb(0,117,246);
+}
+
+.card-inner .card-wrap .title span {
+	color: rgb(0,117,246);
+}
+
+.content.inner-top .text p strong {
+	color: rgb(0,117,246);
+}
+
+.content.inner-top .circle-bts a:hover .icon {
+	color: rgb(0,117,246);
+}
+
+.content.inner-top .circle-bts a:hover span {
+	color: rgb(0,117,246);
+}
+
+.service-items .service-item .icon {
+	color: rgb(0,117,246);
+}
+
+.pricing-items .pricing-item .icon {
+	color: rgb(0,117,246);
+}
+
+.pricing-items .pricing-item .feature-list ul li strong {
+	background: rgb(0,117,246);
+}
+
+.pricing-items .pricing-item .lnks .lnk span {
+	color: rgb(0,117,246);
+}
+
+.fuct-items .fuct-item .icon {
+	color: rgb(0,117,246);
+}
+
+.resume-items .resume-item.active .date {
+	color: rgb(0,117,246);
+}
+
+.skills-list ul li .progress .percentage {
+	background: rgb(0,117,246);
+}
+
+.content.works .filter-menu .f_btn.active {
+	color: rgb(0,117,246);
+}
+
+.box-item .image .info:before,
+.box-item .image .info:after {
+	background: rgb(0,117,246);
+}
+
+.contacts-items .contacts-item .icon {
+	color: rgb(0,117,246);
+}
+
+.post-box .blog-content blockquote {
+	border-left-color: rgb(0,117,246);
+}
+
+.post-box .blog-content ul.list-style li:before {
+	background: rgb(0,117,246);
+}
+
+.post-box .post-comments li .comment-info .name h6 {
+	color: rgb(0,117,246);
+}
+
+.fadeOut{
+	display: none;
+	transition: display 3s;
+	-moz-transition: display 3s;
+	-webkit-transition: display 3s;
+	-o-transition: display 3s;
+}
+
+#home-card .slide{
+	background-image: url(../../images/bg.jpg);
+}
+
+#about-card .card-image{
+	background-image: url(../../images/profile/profile.jpg);
+}
+
+#resume-card .card-image{
+	background-image: url(../../images/profile/profile2.jpg);
+}
+
+#contact-card .card-image{
+	background-image: url(../../images/profile/profile3.jpg);
+}
+
+#portfolio-card .card-image{
+	background-image: url(../../images/profile/profile4.jpg);
+}
+
+.active-flag{
+	box-shadow: 0px 0px 5px 5px white;
+}
+
+.back-drop-modal{
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	text-align: center;
+	background: rgba(0,0,0,.5);
+	z-index: 1000;
+	position: fixed;
+	overflow-y: auto;
+}
+
+.back-drop-modal-content{
+	margin: 40px;
+	text-align: center;
+}
+
+.back-drop-modal-content img{
+	width: 80%;
+}
