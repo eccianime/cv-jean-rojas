@@ -327,11 +327,11 @@ const globalLang = {
 				},
 				{
 					tit: "E-Mail",
-					des: <div>ingjeanpaulrojas@gmail.com<br/>eccianime@gmail.com</div>,
+					des: <span>ingjeanpaulrojas@gmail.com<br/>eccianime@gmail.com</span>,
 				},
 				{
 					tit: "Telefone",
-					des: <div>(+55) 92 98210-0835<br/>(+55) 41 98762-3548<br/>(+55) 92 99968-1010</div>,
+					des: <span>(+55) 92 98210-0835<br/>(+55) 41 98762-3548<br/>(+55) 92 99968-1010</span>,
 				},
 				{
 					tit: "Freelance",
@@ -515,11 +515,11 @@ const globalLang = {
 				},
 				{
 					tit: "Mail",
-					des: <div>ingjeanpaulrojas@gmail.com<br/>eccianime@gmail.com</div>,
+					des: <span>ingjeanpaulrojas@gmail.com<br/>eccianime@gmail.com</span>,
 				},
 				{
 					tit: "Phone",
-					des: <div>(+55) 92 98210-0835<br/>(+55) 41 98762-3548<br/>(+55) 92 99968-1010</div>,
+					des: <span>(+55) 92 98210-0835<br/>(+55) 41 98762-3548<br/>(+55) 92 99968-1010</span>,
 				},
 				{
 					tit: "Freelance",
